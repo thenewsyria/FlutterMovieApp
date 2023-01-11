@@ -1,10 +1,10 @@
 # movies_app
 
 In this flutter app we have used the following advanced features:
- -Clean Architecture Design Pattern
- -MVVM - Model - View - View Model Pattern
- -ViewModel Inputs and Outputs
- -Base ViewModel and Base UseCase
+ - Clean Architecture Design Pattern
+ - MVVM - Model - View - View Model Pattern
+ - ViewModel Inputs and Outputs
+ - Base ViewModel and Base UseCase
  -Application Layer - Dependency Injection, Routes Manager and Application class
  -Application Layer - Extensions and Shared Functions
  -Data Layer - Data Sources (Remote Data Source/ Local Data Source)
