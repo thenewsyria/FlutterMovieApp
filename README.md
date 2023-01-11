@@ -34,6 +34,7 @@ In this flutter app we have used the following advanced features:
  - Using 18 Flutter Packages
  - Getting Device Info (Android - Ios)
  - Using Abstract classes
+![Flutter Clean Architecture – Figma](https://user-images.githubusercontent.com/96256695/211870102-61ff784e-6008-4098-9683-2e3dc8a02468.png)
 
 ## Getting Started
 
